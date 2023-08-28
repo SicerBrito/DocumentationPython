@@ -1,0 +1,42 @@
+1. Qué operadores utiliza Python en los siguientes casos:
+
+A. División Modular
+B. Exponenciación
+C. División que retorne entero.
+
+2. En la jerarquía de operadores, cuáles son los que más
+prioridad tienen cuando el intérprete de Python los evalúa?
+
+3. Si hay operadores de igual precedencia, en qué orden se
+ejecutan?
+
+A. De izquierda a derecha
+B. De derecha a izquierda
+
+4. Que son las expresiones regulares en Python?
+
+5. Enumere 5 tipos de datos en Python y suministre un valor de
+ejemplo de cada uno.
+
+6. En sus propias palabras, qué son las funciones
+preconstruidas y proporcione 2 ejemplos.
+
+7. Cuál es la diferencia entre un condicional simple y un
+condicional compuesto?
+
+8. Escriba un bloque cualquiera de código en Python en donde
+utilice 2 condicionales (if) anidados.
+
+9. Construya un algoritmo en Python, que permita ingresar la
+información de un empleado e imprima el nombre, los
+apellidos y la antigüedad. Los datos que se deben solicitar
+son los siguientes:
+*Nombre * Teléfono *Año de ingreso a la empresa
+*Apellidos *Edad.
+
+10. En su casa le solicitan que realice un algoritmo en Python,
+que permita calcular el valor a pagar por concepto de
+energía eléctrica. Los datos que se conocen son los
+siguientes:
+- Mes de consumo - Valor kw
+-Total kw consumido en el mes - estrato
